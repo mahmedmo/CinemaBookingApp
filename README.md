@@ -1,1 +1,1 @@
-# CinemaBookingApp
+# CinemaBookingApp | AcmeBuddy
